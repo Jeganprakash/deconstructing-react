@@ -1,0 +1,8 @@
+{
+  "name": "Build-React",
+  "packageManager": "yarn@3.1.1",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "typescript": "^4.9.4"
+  }
+}
